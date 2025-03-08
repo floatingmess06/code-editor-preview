@@ -1,6 +1,6 @@
 import React from "react";
 import { CssBaseline, ThemeProvider, createTheme } from "@mui/material";
-import CodeEditor from "./neweditor";
+import CodeEditor from "./CodeEditor";
 
 // Creating a custom dark theme
 const darkTheme = createTheme({
